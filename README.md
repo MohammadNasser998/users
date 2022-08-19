@@ -14,7 +14,7 @@ Required the following env keys
 | Key                                       | Default |
 | ----------------------------------------- | ------- |
 | `SERVER_PORT`                         | 3000    |
-| `CORS_ORIGIN`                             | '*'    |
+| `CORS_ORIGIN`                             | *    |
 | `PASSWORD_SALT_ROUNDS`                    | 10      |
 | `ACCESS_TOKEN_EXPIRY`                     |    30m   |
 | `ACCESS_TOKEN_SECRET`                     |    TEST  |
