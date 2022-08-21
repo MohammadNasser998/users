@@ -1,5 +1,9 @@
 # users
 
+## Server setup
+
+runs on node v18^
+
 ## Database schema
 
 the file tis.sql schema is exist in the root directory.
